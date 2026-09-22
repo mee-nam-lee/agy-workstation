@@ -1,6 +1,6 @@
-# Google Antigravity 2.0 on Cloud Workstations (Selkies Webtop)
+# Google Antigravity 2.0 on Cloud Workstations
 
-Qwiklabs의 **`vm-antigravity` (LinuxServer.io Selkies Webtop + Wayland + Google Antigravity 2.0)** 이미지를 확장하여, Google Cloud Workstations에서 60fps 저지연 화면 스트리밍, 한/영 전환(`fcitx5-hangul`), Chrome OAuth 자동 로그인, `/dev/shm` 메모리 확장(`4GB`)을 지원하는 커스텀 워크스테이션 배포 가이드입니다.
+Qwiklabs의 **`vm-antigravity` (LinuxServer.io Selkies Webtop + Wayland + Google Antigravity 2.0)** 이미지를 확장하여, Google Cloud Workstations에서 Antigravity 2.0을 지원하도록 하는 커스텀 워크스테이션 배포 가이드입니다.
 
 ---
 
